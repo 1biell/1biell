@@ -1,5 +1,10 @@
 # Olá, eu sou Gabriel Nicolas Terra! 👋
 
+Estudo programação desde 2023, quando ingressei na faculdade de TADS pela UCDB.  
+Atualmente, estou no penúltimo semestre do curso (quase no último ano).  
+Sou desenvolvedor focado em Front-end, com uma base sólida em Java.  
+Sempre em busca de aprender novas tecnologias e criar interfaces modernas e funcionais.
+
 🎓 Último ano de Análise e Desenvolvimento de Sistemas (ADS)  
 💻 Focado em Front-end: **HTML, CSS, JavaScript**  
 🚀 Apaixonado por interfaces modernas  
