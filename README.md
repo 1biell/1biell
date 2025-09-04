@@ -11,7 +11,6 @@ Atualmente, estou no **penúltimo semestre** do curso e sigo sempre em busca de 
 
 - 🎓 **Último ano** de Análise e Desenvolvimento de Sistemas (ADS)  
 - 💻 Foco em **Desenvolvimento Java Backend**  
-- 🎯 Apaixonado por criar **APIs robustas, sistemas escaláveis e manter código limpo e organizado**  
 - 📍 Estudando Spring Boot, bancos de dados (PostgreSQL, MySQL) e boas práticas de desenvolvimento  
 
 ---
