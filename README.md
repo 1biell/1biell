@@ -1,7 +1,7 @@
 # Olá, eu sou **Gabriel Nicolas Terra**! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na **UCDB**, atualmente focado em **desenvolvimento web fullstack**.  
-Meu principal projeto é o **Sistema de Comanda Online** 🍣, onde utilizei **React, Node.js e PostgreSQL** para criar uma solução moderna para restaurantes substituírem papel por pedidos digitais.
+Meu principal projeto é o **Sistema de Comanda Online** 🍣, mas também desenvolvi projetos acadêmicos em Java para aplicar conceitos de orientação a objetos e persistência de dados.
 
 Sempre busco aprender novas tecnologias e entregar soluções práticas e escaláveis.
 
@@ -11,7 +11,7 @@ Sempre busco aprender novas tecnologias e entregar soluções práticas e escal�
 
 - 🎓 **Acadêmico de Análise e Desenvolvimento de Sistemas (ADS)**  
 - 💻 Foco em **Desenvolvimento Web Fullstack**  
-- 📍 Experiência com **React.js, Node.js, Express e PostgreSQL**  
+- 📍 Experiência com **React.js, Node.js, Express, PostgreSQL e Java**  
 - ⚡ Apaixonado por criar sistemas práticos e funcionais
 
 ---
@@ -25,11 +25,12 @@ Sempre busco aprender novas tecnologias e entregar soluções práticas e escal�
 ### Backend  
 - 🔹 **Node.js & Express** — APIs REST, manipulação de banco de dados e rotas  
 - 🔹 **PostgreSQL** — Modelagem de dados, consultas SQL, integração com Node.js  
+- 🔹 **Java** — Orientação a objetos, manipulação de arquivos, criação de sistemas baseados em linha de comando  
 
 ### Ferramentas e Versionamento  
 - 🔹 **Git & GitHub** — Controle de versão e colaboração em projetos  
 - 🔹 **Postman** — Testes de APIs REST  
-- 🔹 **VS Code** — Desenvolvimento fullstack  
+- 🔹 **VS Code & IntelliJ IDEA** — Desenvolvimento fullstack e Java  
 
 ---
 
@@ -42,6 +43,15 @@ Sempre busco aprender novas tecnologias e entregar soluções práticas e escal�
   - Cozinha: Visualizar pedidos, alterar status (pendente → em preparo → concluído)  
   - Histórico: Consultar pedidos concluídos, horários no fuso **America/Sao_Paulo**  
 - Tech Stack: **React.js, Node.js, Express, PostgreSQL**
+
+### 📘 Projeto Acadêmico – Sistema de Cadastro de Clientes
+- Projeto desenvolvido no 3º semestre do curso de ADS.  
+- Sistema via linha de comando para cadastro e consulta de clientes com validação básica.  
+- Funcionalidades:
+  - Cadastro de clientes com CPF, nome, data de nascimento e e-mail  
+  - Persistência em arquivos `.txt` separados por CPF  
+  - Menu interativo e validação de datas  
+- Tech Stack: **Java, orientação a objetos, manipulação de arquivos**  
 
 ---
 
@@ -57,4 +67,3 @@ Sempre busco aprender novas tecnologias e entregar soluções práticas e escal�
 ## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=1biell&show_icons=true&theme=radical)
-
