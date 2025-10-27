@@ -1,7 +1,7 @@
 # Olá, eu sou **Gabriel Nicolas Terra**! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na **UCDB**, atualmente focado em **desenvolvimento web fullstack**.  
-Meu principal projeto é o **Sistema de Comanda Online** 🍣, mas também desenvolvi projetos acadêmicos em Java para aplicar conceitos de orientação a objetos e persistência de dados.
+Meu principal projeto é o **Sistema de Comanda Online** 🍣, mas também desenvolvi projetos acadêmicos em Java para aplicar conceitos de orientação a objetos e persistência de dados..
 
 Sempre busco aprender novas tecnologias e entregar soluções práticas e escaláveis.
 
