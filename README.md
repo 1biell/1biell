@@ -63,10 +63,3 @@ Atuo criando sistemas web, APIs e aplicações focadas em performance, organiza�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Terra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-terra-299a25267)
 
 [![GitHub](https://img.shields.io/badge/GitHub-1biell-black?style=for-the-badge&logo=github)](https://github.com/1biell)
-
----
-
-
-## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=1biell&show_icons=true&theme=radical)
