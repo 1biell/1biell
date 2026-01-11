@@ -1,65 +1,33 @@
-# 👋 Olá! Eu sou o Gabriel Nicolas Terra
+# 👋 Olá, eu sou o **Gabriel Terra**
 
-Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas pela UCDB – Universidade Católica Dom Bosco (colação em fevereiro).
-Atuo criando sistemas web, APIs e aplicações focadas em performance, organização e resultado.
-
----
-
-
-## 🛠️ Habilidades Técnicas
-
-### Frontend  
-- 🔹 **React.js** — Hooks, estado, rotas, componentização
-- 🔹 **TailwindCSS** — Layouts responsivos e produtivos
-- 🔹 **Next.js** — Rotas, SSR/SSG, APIs internas, autenticação
-- 🔹 **JavaScript* / TypeScript**
-
-
-### Backend  
-- 🔹 **Node.js & Express** — APIs REST, manipulação de banco de dados e rotas  
-- 🔹 **PostgreSQL** — Consultas, relacionamentos e estrutura de dados
-- 🔹 **Prisma ORM** — Modelagem, migrations e acesso ao PostgreSQL  
-
-### Ferramentas e Versionamento  
-- 🔹 **Git & GitHub** 
-- 🔹 **Postman**  
-- 🔹 **VS Code** 
-- 🔹 **Railway / Render / Vercel** 
+**Desenvolvedor Full Stack Web**
 
 ---
 
-## 🌟 Projetos Recentes
+## 👨‍💻 Sobre mim
 
-### 🍣 Sistema de Comanda Online
-- Sistema completo de pedidos para restaurantes, integrando salão e cozinha.
-- Funcionalidades:
-  - Pedido por item, edição e envio
-  - Painel da cozinha com mudança de status  
-  - Histórico com horários no fuso America/Sao_Paulo
-- Stack: **React, Node.js, Express, PostgreSQL, Prisma**
-
-### 🧾 GNT Propostas
-- Aplicação web para gerar propostas comerciais rápidas e organizadas.
-- Funcionalidades:
-  - Geração de propostas
-  - Seleção de serviços e valores  
-  - Visualização estruturada  
-- Tech Stack: **React.js**
-
-### 💊 Farmácia Demo
-- CRUD simples para estudo de fluxo e interface de gestão
-- Funcionalidades:
-  - Cadastro de produtos
-  - Estoque e vendas  
-  - Interface intuitiva  
-- Tech Stack: **React.js**
+- 🚀 Desenvolvedor Full Stack focado em aplicações web reais  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (UCDB)  
+- 💻 Trabalho com front-end, back-end e APIs  
+- 🛠️ Experiência prática com sistemas, sites e landing pages  
+- 🔗 Já atuei diretamente com clientes e equipes de desenvolvimento  
 
 ---
 
-## 🌐 Contato
+## 🧰 Tecnologias
 
-📧 **nicolasgabriel936@gmail.com**
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Terra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-terra-299a25267)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-1biell-black?style=for-the-badge&logo=github)](https://github.com/1biell)
+## 📬 Onde me encontrar
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielnterra/)  
+- 🌐 [Portfólio](https://gnttecnologia.com/gabrielterra)  
+- 📧 nicolasgabriel936@gmail.com  
